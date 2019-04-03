@@ -23,7 +23,7 @@ Final Group Project for IGME-480 (Group E)
 - How can we make this easy to use?
 - How can we make this intuitive?
 
-## <b>Plan</b> (for now)
+## <b>Plan/Progress</b>
 <b>Face Filter App:</b> Similar to snapchat's filters, the app will recognize your face and place models/images on top of it.
 
 ### <b>Possible Models</b>
