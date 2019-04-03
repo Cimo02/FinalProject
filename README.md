@@ -1,5 +1,6 @@
 # <b>Final Project</b>
 Final Group Project for IGME-480 (Group E)
+<b>Unity Version 2018.3.7</b>
 
 ## <b>Considerations</b> 
 - Immersion and Presence
