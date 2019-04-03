@@ -26,3 +26,9 @@ Final Group Project for IGME-480 (Group E)
 ## <b>Plan</b> (for now)
 <b>Face Filter App:</b> Similar to snapchat's filters, the app will recognize your face and place models/images on top of it.
 
+### <b>Possible Models</b>
+- <a href="https://poly.google.com/view/0Wsi-ygmiIX">Aviators</a>
+- <a href="https://poly.google.com/view/9i5mmOwt7cu">Low Poly Glasses</a>
+- <a href="https://poly.google.com/view/djeUHaLQK3t">Steampunk Goggles</a>
+- <a href="https://poly.google.com/view/14ZGcuiRJ9d">Glasses 4-Set</a>
+- <a href="https://poly.google.com/view/eJBwc389UFN">No Lens White</a>
