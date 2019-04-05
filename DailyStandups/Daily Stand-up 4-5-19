@@ -2,26 +2,18 @@
 ## Group E
 
 ### Tyler Ciarmataro
-- Looked at potential filter options
-- Find models and sounds for filters
-- We're still not sure which engine we'll be using
+- Created issues and milestones on GitHub
+- Going to create Unity project and add models
 
 ### Yanchun Wu
-- Looked at facial recognization API
-- Find models and similar apps
-- checked my devices to see if they could run with the ARCore engine
+- Looking for models and going to insert it into Unity
 
 ### Wenwen Cheng
-- Looked at Xcode
-- Searched some AR examples
-- Looked at demo about facial apps
+- Absent
 
 ### Mohak Padukone 
-- Ar Core facial recognition research
-- Unity facial recognition research
-- Current functioning AR app examples
+- tested unity ARCore face mesh
+
 
 ## TODO This Week:
-- Decide on a engine to build the app in
-- Have list of a few planned filters (and possibly some associated sounds)
-- 
+- Create the project in Unity and put models in (before next week)
