@@ -34,3 +34,9 @@ Final Group Project for IGME-480 (Group E)
 - <a href="https://poly.google.com/view/djeUHaLQK3t">Steampunk Goggles</a>
 - <a href="https://poly.google.com/view/14ZGcuiRJ9d">Glasses 4-Set</a>
 - <a href="https://poly.google.com/view/eJBwc389UFN">No Lens White</a>
+
+### <b>ARCore Documentation</b>
+- <a href="https://developers.google.com/ar/develop/unity/quickstart-ios">Quickstart for iOS</a>
+- <a href="https://developers.google.com/ar/develop/unity/quickstart-android">Quickstart for Android</a>
+- <a href="https://developers.google.com/ar/develop/java/emulator">Android Simulator with ARCore</a>
+
