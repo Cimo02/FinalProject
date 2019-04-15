@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Cimo/code/FinalProject/VirualMenu.apk
+D:/Profiles/tjc3255/code/FinalProject/VirtualMenuApp.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?

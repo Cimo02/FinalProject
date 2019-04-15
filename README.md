@@ -2,6 +2,7 @@
 Final Group Project for IGME-480 (Group E)
 
 <b>Unity Version 2018.3.7f1</b>
+<b>Vuforia Version 8.1.7</b>
 
 ## <b>Considerations</b> 
 - Immersion and Presence
