@@ -12,15 +12,16 @@ Final Group Project for IGME-480 (Group E)
 - Interaction
 - User-Interface (Non-Diegetic/Diegetic/Spatial/Meta)
 
-## <b>Research</b> (Check Supported Devices before use)
-- Face API
-- ARCore (just added facial recognition)
+## <b>Research</b>
+- Unity
+- Vuforia (just added facial recognition)
 
 ## <b>Sound</b>
 - some sounds related to the filter being placed
 
 ## <b>Interaction</b>
-- some interactions to cause the filters to appear
+- "Left" and "Right" buttons 
+- Menu Button
 
 ## <b>Ergonomics</b> 
 - How can we make this easy to use?
@@ -29,15 +30,10 @@ Final Group Project for IGME-480 (Group E)
 ## <b>Plan/Progress</b>
 <b>Face Filter App:</b> Similar to snapchat's filters, the app will recognize your face and place models/images on top of it.
 
-### <b>Possible Models</b>
-- <a href="https://poly.google.com/view/0Wsi-ygmiIX">Aviators</a>
-- <a href="https://poly.google.com/view/9i5mmOwt7cu">Low Poly Glasses</a>
-- <a href="https://poly.google.com/view/djeUHaLQK3t">Steampunk Goggles</a>
-- <a href="https://poly.google.com/view/14ZGcuiRJ9d">Glasses 4-Set</a>
-- <a href="https://poly.google.com/view/eJBwc389UFN">No Lens White</a>
-
-### <b>ARCore Documentation</b>
-- <a href="https://developers.google.com/ar/develop/unity/quickstart-ios">Quickstart for iOS</a>
-- <a href="https://developers.google.com/ar/develop/unity/quickstart-android">Quickstart for Android</a>
-- <a href="https://developers.google.com/ar/develop/java/emulator">Android Simulator with ARCore</a>
-
+### <b>Possible Models (Creo View, Collada, FBX, and JT work best)</b>
+- <a href="https://www.cgtrader.com/free-3d-models/food/miscellaneous/croissants-pbr-3d-pack">Croissant</a>
+- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
+- <a href="https://free3d.com/3d-model/coffee-cup-6828.html">Coffee</a>
+- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
+- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
+- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
