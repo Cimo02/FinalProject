@@ -29,7 +29,7 @@ Final Group Project for IGME-480 (Group E)
 - How can we make this intuitive?
 
 ## <b>Plan/Progress</b>
-<b>Face Filter App:</b> Similar to snapchat's filters, the app will recognize your face and place models/images on top of it.
+<b>Bakery Menu App:</b> Allows you to see the size and look of your food before you order it. 
 
 ### <b>Possible Models (Creo View, Collada, FBX, and JT work best)</b>
 - <a href="https://www.cgtrader.com/free-3d-models/food/miscellaneous/croissants-pbr-3d-pack">Croissant</a>
