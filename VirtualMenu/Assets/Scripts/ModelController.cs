@@ -4,10 +4,8 @@ using UnityEngine;
 
 public class ModelController : MonoBehaviour
 {
-    public GameObject option1;
-    public GameObject option2;
     private GameObject currentModel;
-    private int currentIndex;
+    private int currentIndex = 0;
     private List<GameObject> models;
 
     // Start is called before the first frame update
@@ -15,14 +13,15 @@ public class ModelController : MonoBehaviour
     {
         // create and populate list of model objects
         models = new List<GameObject>();
-        if (option1 != null) { models.Add(option1); }
-        if (option1 != null) { models.Add(option1); }
+        foreach (Transform child in transform)
+        {
+            models.Add(child.gameObject);
+            Debug.Log("Added " + child.gameObject.name);
+        }
 
         // set default option
-        var myModel = Instantiate(option1);
-        myModel.transform.parent = this.transform;
-        currentModel = option1;
-        currentIndex = models.IndexOf(currentModel);
+        currentIndex = 0;
+        ShowCurrentModel();
     }
 
     // Update is called once per frame
@@ -31,21 +30,43 @@ public class ModelController : MonoBehaviour
         
     }
 
-    void GoLeft()
+    public void GoLeft()
     {
-        // show models[currentIndex - 1] if currentIndex != 0
-        var currentIndex = models.IndexOf(currentModel);
-        // Destroy(currentModel)
-        // Set new currentModel
-        // Instantiate(currentModel)
+        Debug.Log("Left");
+        if (currentIndex <= 0)
+        {
+            currentIndex = models.Count - 1;
+        }
+        else
+        {
+            currentIndex--;
+        }
+        ShowCurrentModel();
     }
 
-    void GoRight()
+    public void GoRight()
     {
-        // show models[currentIndex + 1] if currentIndex != (totalCount - 1)
-        var currentIndex = models.IndexOf(currentModel);
-        // Destroy(currentModel)
-        // Set new currentModel
-        // Instantiate(currentModel)
+        Debug.Log("Right");
+        if (currentIndex >= models.Count - 1)
+        {
+            currentIndex = 0;
+        }
+        else
+        {
+            currentIndex++;
+        }
+        ShowCurrentModel();
+    }
+
+    private void ShowCurrentModel()
+    {
+        foreach (GameObject model in models)
+        {
+            model.SetActive(false);
+        }
+
+        models[currentIndex].SetActive(true);
+
+        Debug.Log("Showing New Model, Current Index: " + currentIndex);
     }
 }
