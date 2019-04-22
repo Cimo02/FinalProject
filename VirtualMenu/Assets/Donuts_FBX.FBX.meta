@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 94d2763ff6a93cd44be8a97399f9508b
+timeCreated: 1532045562
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box002
+    100002: donut061
+    100004: donut062
+    100006: donut063
+    100008: donut064
+    100010: donut065
+    100012: donut066
+    100014: donut067
+    100016: donut068
+    100018: donut069
+    100020: donut070
+    100022: donut071
+    100024: donut072
+    100026: donut073
+    100028: donut074
+    100030: donut075
+    100032: donut076
+    100034: donut077
+    100036: donut078
+    100038: donut079
+    100040: donut080
+    100042: donut081
+    100044: donut082
+    100046: donut083
+    100048: donut084
+    100050: //RootNode
+    400000: Box002
+    400002: donut061
+    400004: donut062
+    400006: donut063
+    400008: donut064
+    400010: donut065
+    400012: donut066
+    400014: donut067
+    400016: donut068
+    400018: donut069
+    400020: donut070
+    400022: donut071
+    400024: donut072
+    400026: donut073
+    400028: donut074
+    400030: donut075
+    400032: donut076
+    400034: donut077
+    400036: donut078
+    400038: donut079
+    400040: donut080
+    400042: donut081
+    400044: donut082
+    400046: donut083
+    400048: donut084
+    400050: //RootNode
+    2300000: Box002
+    2300002: donut061
+    2300004: donut062
+    2300006: donut063
+    2300008: donut064
+    2300010: donut065
+    2300012: donut066
+    2300014: donut067
+    2300016: donut068
+    2300018: donut069
+    2300020: donut070
+    2300022: donut071
+    2300024: donut072
+    2300026: donut073
+    2300028: donut074
+    2300030: donut075
+    2300032: donut076
+    2300034: donut077
+    2300036: donut078
+    2300038: donut079
+    2300040: donut080
+    2300042: donut081
+    2300044: donut082
+    2300046: donut083
+    2300048: donut084
+    3300000: Box002
+    3300002: donut061
+    3300004: donut062
+    3300006: donut063
+    3300008: donut064
+    3300010: donut065
+    3300012: donut066
+    3300014: donut067
+    3300016: donut068
+    3300018: donut069
+    3300020: donut070
+    3300022: donut071
+    3300024: donut072
+    3300026: donut073
+    3300028: donut074
+    3300030: donut075
+    3300032: donut076
+    3300034: donut077
+    3300036: donut078
+    3300038: donut079
+    3300040: donut080
+    3300042: donut081
+    3300044: donut082
+    3300046: donut083
+    3300048: donut084
+    4300000: donut061
+    4300002: donut062
+    4300004: Box002
+    4300006: donut063
+    4300008: donut064
+    4300010: donut065
+    4300012: donut066
+    4300014: donut067
+    4300016: donut068
+    4300018: donut069
+    4300020: donut070
+    4300022: donut071
+    4300024: donut072
+    4300026: donut073
+    4300028: donut074
+    4300030: donut075
+    4300032: donut076
+    4300034: donut077
+    4300036: donut078
+    4300038: donut079
+    4300040: donut080
+    4300042: donut081
+    4300044: donut082
+    4300046: donut083
+    4300048: donut084
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
