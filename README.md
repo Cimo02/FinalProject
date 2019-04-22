@@ -1,4 +1,4 @@
-# <b>Final Project</b>
+# <b>Virtual Menu</b>
 Final Group Project for IGME-480 (Group E)
 
 <b>Unity Version 2018.3.7f1</b>
@@ -15,7 +15,7 @@ Final Group Project for IGME-480 (Group E)
 
 ## <b>Research</b>
 - Unity
-- Vuforia (just added facial recognition)
+- Vuforia 
 
 ## <b>Sound</b>
 - some sounds related to the filter being placed
@@ -31,10 +31,6 @@ Final Group Project for IGME-480 (Group E)
 ## <b>Plan/Progress</b>
 <b>Bakery Menu App:</b> Allows you to see the size and look of your food before you order it. 
 
-### <b>Possible Models (Creo View, Collada, FBX, and JT work best)</b>
-- <a href="https://www.cgtrader.com/free-3d-models/food/miscellaneous/croissants-pbr-3d-pack">Croissant</a>
-- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
-- <a href="https://free3d.com/3d-model/coffee-cup-6828.html">Coffee</a>
-- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
-- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
-- <a href="https://free3d.com/3d-model/bagel-with-cream-cheese-v1--458664.html">Bagel</a>
+### <b>Assets/Sources</b>
+- <a href="https://www.cgtrader.com/3d-models/food/miscellaneous/donuts-pack1">Donuts</a>
+- <a href="https://www.google.com/search?q=food+icon&tbs=sur:fc,ic:trans&tbm=isch&source=lnt&sa=X&ved=0ahUKEwjQsLPo4-HhAhVKmeAKHdMHBtwQpwUIIQ&biw=1920&bih=937&dpr=1#imgrc=3eO7GlapwubztM:">Fork/Knife Icon</a>
