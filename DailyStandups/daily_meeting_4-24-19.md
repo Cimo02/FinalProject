@@ -9,7 +9,7 @@
 - Looking for functions that could make the app more complete
 
 ### Wenwen Cheng
--Thinking about how to add more functions to the app
+- Thinking about how to add more functions to the app
 - Started to find sound files online
 
 ### Mohak Padukone 
