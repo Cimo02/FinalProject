@@ -18,4 +18,5 @@
 -
 
 ## TODO This Week:
-- 
+- Add more models 
+- UI
