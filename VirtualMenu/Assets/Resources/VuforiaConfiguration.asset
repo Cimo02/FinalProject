@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Script: {fileID: 0}
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AUtXFgX/////AAABmYPdOKhAKEeSvfwK84WHhycGURS3+cVky4MNNLbiA7EjhubvsndIY6oVC+6p4fXF0gJlziqOO/e0nGAjendjCoMhW5+fiblqku3zu4NLFTv9afIUn/lBvdebtuOEtye2/ooO0As6KOfsRfrIF89o7JFAuKXSJ51eTsjMA6p+1UwI5wTBcSW7cQKqlwHQSoO+SGpFHPBzNZ+JED7VurX5WjVdS90+iUjrBJeP618fTGp/pYMAKETTjx83gqejEX5oatbNcjcrEqhOdi1918+YhPzvQXF3V2NL0UB895/rpInYy8JSG3Of1kRbsW68GfbB7JpyG/3BiUS4xfJq3of0Zg+2g+Ko0vWtjtwDg1+EI3EF
-    ufoLicenseKey: QVJwRE84Ny8vLy8vQUFBQUtJdGl6dkJDMFVBK2xSUi9OM0NhL0JlUFk2QklORTBiRWRFUzBvUEUyMTJXaWtJWm9LbldJQUpucFY5TWpIRFVCd003WEd0YzNTcFZJNjFWYUs2UW9wOENqOHNiOXBsTnV3SVVtSmFpYXFXUkVBMzNEalZVZUVGT1BjTzZIT1lXeit2WXk3VDRqaVFSVFlKOXJGWnVTZTJLcVhvS1ZhQnNkcDVkWEZ0Umx0ckh6STd4MUMxcHB5eWUrQnZiMWd1cnl4TFMwdE5NYlJFcnkrSXY3UkdFQ0VWb0dvcnJYUXNNaG9KaFhqN29SRlIySFdzaFZoa0Y2RmJONlFnZGJ2M3NNcG9DczdiZEd4WGlSbTZJMjBLTkJoQUI2TzdUS2xWUU1aNmFXdUdQNlJWQkxXeDdkV08xZVJ6ZHZxYjFHald2TVBCYVpPbWJ6NmcxZHRiallOMU51RTNsRnJNRHFGV29PdWx4TjhnL1UzVUk=
+    vuforiaLicenseKey: 
+    ufoLicenseKey: QVR5bXljai8vLy8vQUFBQUtCNzRwZ1o2WUVTd3VjNTM2bjVpOFJ3Smx2UE5rbGkyMUZpUkxyV0RGQnlRZXBwMnovcm1vbDc2dzZoY0pSN0M5d0VQdlU2ZjFibHp1VzArZFVFUGRRL2FZQUJ2bFhaZkJpSW9zUE1PNTFWdFQrdlgwcXJEdmd1Zzl5cDlHSjIxSUMxanlHVWtEYjIrNFA2R2VzOUV3QittRGNQbkJEVnMzYnNja25pQVpJYjJPNTlseXRLVU9RK09kTHcvUmpwT1JuWFVxbERvVmNoYXVlZ0pyNkNGQ3J3VUhYUjNia3lqZHN5Wmt3WXp6MitESXFFdFFMMGovbFFxc0RoU2xOaHcrT245bjEvM0hQYndqWktzbVMvSFJWOVNBTkRuZkVHa3dHZk9LSVcvRzNoUmlaS2pLalV0NnZhQ3gxK3NMeVRMMG5rSCs4RCsyR053WGVlajExWGJkN3VBRDg3czNLanZtOTJmb2ZkSUtKNDE=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -22,16 +22,16 @@ MonoBehaviour:
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
     mirrorVideoBackground: 0
-    version: 8.1.7
-    eulaAcceptedVersions: '{"Values":["7.5","7.1","8.0","8.1"]}'
+    version: 1.0.0
+    eulaAcceptedVersions: 
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
     eyewearType: 0
     stereoFramework: 0
     seeThroughConfiguration: 0
-    viewerName: Generic Cardboard
-    viewerManufacturer: Vuforia
+    viewerName: 
+    viewerManufacturer: 
     useCustomViewer: 0
     customViewer:
       Version: 0
@@ -53,8 +53,8 @@ MonoBehaviour:
     matteShader: {fileID: 4800000, guid: 66d0d78a3000021448b598bb54a3bfdf, type: 3}
     videoBackgroundEnabled: 1
   deviceTracker:
-    autoInitTracker: 1
-    autoStartTracker: 1
+    autoInitTracker: 0
+    autoStartTracker: 0
     trackingMode: 1
     posePrediction: 0
     modelCorrectionMode: 0
