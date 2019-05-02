@@ -21,7 +21,7 @@ public class ModelController : MonoBehaviour
 
         // set default option
         currentIndex = 0;
-        ShowCurrentModel();
+        ShowModel(currentIndex);
     }
 
     // Update is called once per frame
@@ -41,7 +41,7 @@ public class ModelController : MonoBehaviour
         {
             currentIndex--;
         }
-        ShowCurrentModel();
+        ShowModel(currentIndex);
     }
 
     public void GoRight()
@@ -55,17 +55,19 @@ public class ModelController : MonoBehaviour
         {
             currentIndex++;
         }
-        ShowCurrentModel();
+        ShowModel(currentIndex);
     }
 
-    private void ShowCurrentModel()
+    public void ShowModel(int index)
     {
         foreach (GameObject model in models)
         {
             model.SetActive(false);
         }
 
-        models[currentIndex].SetActive(true);
+        models[index].SetActive(true);
+
+        currentIndex = index;
 
         Debug.Log("Showing New Model, Current Index: " + currentIndex);
     }
